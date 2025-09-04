@@ -20,7 +20,7 @@ The repository includes:
 ### Information
 
 The challenge set contains 600 sentences from abstracts of papers on the topic of AI, published on ACL Anthology and arXiv.
-The dataset consists of six linguistic categories: (1) verb subjects, (2) verb ojbects, (3) adjectives, (4), role/function noun phrases, (5), genitive noun phrases and (6) comparisons. The multiclass set of verbs and adjectives contain positive, negative and inconclusive samples. The single class set of nouns contains only positive cases, and the comparison sentences are labeled inconclusive (annotation decisions are described within the paper). 
+The dataset consists of six linguistic categories: (1) verb subjects, (2) verb objects, (3) adjectives, (4), role/function noun phrases, (5), genitive noun phrases and (6) comparisons. The multiclass set of verbs and adjectives contain positive, negative and inconclusive samples. The single class set of nouns contains only positive cases, and the comparison sentences are labeled inconclusive (annotation decisions are described within the paper). 
 
 ### format and structure
 
